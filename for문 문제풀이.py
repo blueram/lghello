@@ -9,4 +9,5 @@ for i in a:
 average=tot/len(a)
 print (average)
 
-
+ #연습
+ 
